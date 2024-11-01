@@ -92,7 +92,7 @@ void loop() {
   delay(2000);                    // Aguarda 2 segundos
 }
 ```
-Para acessar o código completo aperte _[aqui](/src\semaforo_ponderada.ino)_.
+Para acessar o código completo aperte _[aqui](src/semaforo_ponderada.ino)_.
 
 Juntando o circuito montado e o código explicado acima, pode-se obter o semáforo funcionando como mostrado no vídeo: 
 _[Vídeo do Semáforo](https://youtube.com/shorts/deZxTAHkoFo?feature=share)_.
