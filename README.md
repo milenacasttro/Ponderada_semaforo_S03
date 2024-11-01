@@ -92,6 +92,10 @@ void loop() {
   delay(2000);                    // Aguarda 2 segundos
 }
 ```
+
+Juntando o circuito montado e o código explicado acima, pode-se obter o semáforo funcionando como mostrado no vídeo: 
+_[Vídeo do Semáforo](https://youtube.com/shorts/deZxTAHkoFo?feature=share)_
+
 ## Parte 3: Avaliação de Pares
 
 Trio de Avaliação: Milena Castro, Carolina Santos e Cecília Coelho.
